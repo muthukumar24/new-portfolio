@@ -20,6 +20,15 @@ export const ProjectList = [
       demo_url: "https://forever-ecommerce-application.netlify.app/",
     },
     {
+      img: "/prescripto.png",
+      title: "Prescripto",
+      description:
+        `Prescripto is a web application platform for users to book doctor appointments online`,
+      tech_stack: ["React.js", "Tailwind CSS","Node.js", "Express.js", "MongoDB"],
+      github_url: "https://github.com/muthukumar24/prescripto-FrontEnd.git",
+      demo_url: "https://prescripto-application.netlify.app/",
+    },
+    {
       img: "/TODOAPPIMG.png",
       title: "Todo Application",
       description:
@@ -38,23 +47,23 @@ export const ProjectList = [
       github_url: "https://github.com/muthukumar24/e-book-website",
       demo_url: "https://e-book-website.netlify.app/",
     },
-    {
-      img: "/travel-ease.png",
-      title: "Travel Ease",
-      description:
-        `A travel website is designed to assist individuals in planning, booking, and
-        managing their travel-related activities.`,
-      tech_stack: ["HTML", "CSS", "JavaScript"],
-      github_url: "https://github.com/muthukumar24/TravelEase",
-      demo_url: "https://travel-ease-website.netlify.app/",
-    },
+    // {
+    //   img: "/travel-ease.png",
+    //   title: "Travel Ease",
+    //   description:
+    //     `A travel website is designed to assist individuals in planning, booking, and
+    //     managing their travel-related activities.`,
+    //   tech_stack: ["HTML", "CSS", "JavaScript"],
+    //   github_url: "https://github.com/muthukumar24/TravelEase",
+    //   demo_url: "https://travel-ease-website.netlify.app/",
+    // },
 
     {
       img: "/JBL-Headphones.png",
       title: "JBL Headphones",
       description:
         `A JBL headphones store aim to provide an immersive and user-friendly
-experience for customers looking to purchase high-quality audio products.`,
+        experience for customers looking to purchase high-quality audio products.`,
       tech_stack: ["HTML", "CSS", "JavaScript"],
       github_url: "https://github.com/muthukumar24/JBL-Website",
       demo_url: "https://jbl-website.netlify.app/",
