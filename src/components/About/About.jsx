@@ -39,7 +39,8 @@ function About() {
               Unibanco in Brazil. During my tenure, I focused on ensuring the
               quality and reliability of T24 banking software by creating and
               maintaining automated test scripts, executing test cases, and
-              reporting defects using tools like JIRA and MAGiX.
+              reporting defects using tools like JIRA and Tool used for Automation 
+              Testing - MAGiX.
             </Slide>
 
             <br />
