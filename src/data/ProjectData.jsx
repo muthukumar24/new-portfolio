@@ -28,15 +28,6 @@ export const ProjectList = [
       github_url: "https://github.com/muthukumar24/prescripto-FrontEnd.git",
       demo_url: "https://prescripto-application.netlify.app/",
     },
-    // {
-    //   img: "/TODOAPPIMG.png",
-    //   title: "Todo Application",
-    //   description:
-    //     `A To-Do App is a simple task management tool that allows users to create, organize, and track their daily tasks and activities.`,
-    //   tech_stack: ["React.js", "Bootstrap"],
-    //   github_url: "https://github.com/muthukumar24/Guvi-React-JS-Task-3.git",
-    //   demo_url: "https://demo-todo-application.netlify.app/",
-    // },
     {
       img: "/e-book.png",
       title: "E-Book Website",
@@ -47,17 +38,6 @@ export const ProjectList = [
       github_url: "https://github.com/muthukumar24/e-book-website",
       demo_url: "https://e-book-website.netlify.app/",
     },
-    // {
-    //   img: "/travel-ease.png",
-    //   title: "Travel Ease",
-    //   description:
-    //     `A travel website is designed to assist individuals in planning, booking, and
-    //     managing their travel-related activities.`,
-    //   tech_stack: ["HTML", "CSS", "JavaScript"],
-    //   github_url: "https://github.com/muthukumar24/TravelEase",
-    //   demo_url: "https://travel-ease-website.netlify.app/",
-    // },
-
     {
       img: "/JBL-Headphones.png",
       title: "JBL Headphones",
