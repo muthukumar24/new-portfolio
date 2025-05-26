@@ -28,15 +28,15 @@ export const ProjectList = [
       github_url: "https://github.com/muthukumar24/prescripto-FrontEnd.git",
       demo_url: "https://prescripto-application.netlify.app/",
     },
-    {
-      img: "/TODOAPPIMG.png",
-      title: "Todo Application",
-      description:
-        `A To-Do App is a simple task management tool that allows users to create, organize, and track their daily tasks and activities.`,
-      tech_stack: ["React.js", "Bootstrap"],
-      github_url: "https://github.com/muthukumar24/Guvi-React-JS-Task-3.git",
-      demo_url: "https://demo-todo-application.netlify.app/",
-    },
+    // {
+    //   img: "/TODOAPPIMG.png",
+    //   title: "Todo Application",
+    //   description:
+    //     `A To-Do App is a simple task management tool that allows users to create, organize, and track their daily tasks and activities.`,
+    //   tech_stack: ["React.js", "Bootstrap"],
+    //   github_url: "https://github.com/muthukumar24/Guvi-React-JS-Task-3.git",
+    //   demo_url: "https://demo-todo-application.netlify.app/",
+    // },
     {
       img: "/e-book.png",
       title: "E-Book Website",
