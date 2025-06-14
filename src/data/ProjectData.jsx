@@ -15,7 +15,7 @@ export const ProjectList = [
       description:
         `Forever E-Commerce is a dynamic online shopping platform that offers a wide range of products,
          categorized for Men, Women, and Kids.`,
-      tech_stack: ["React.js", "Tailwind CSS","Node.js", "Express.js", "MongoDB"],
+      tech_stack: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
       github_url: "https://github.com/muthukumar24/forever-e-commerce-FE.git",
       demo_url: "https://forever-ecommerce-application.netlify.app/",
     },
@@ -24,7 +24,7 @@ export const ProjectList = [
       title: "Prescripto",
       description:
         `Prescripto is a web application platform for users to book doctor appointments online`,
-      tech_stack: ["React.js", "Tailwind CSS","Node.js", "Express.js", "MongoDB"],
+      tech_stack: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
       github_url: "https://github.com/muthukumar24/prescripto-FrontEnd.git",
       demo_url: "https://prescripto-application.netlify.app/",
     },
