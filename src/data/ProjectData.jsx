@@ -28,26 +28,26 @@ export const ProjectList = [
       github_url: "https://github.com/muthukumar24/prescripto-FrontEnd.git",
       demo_url: "https://prescripto-application.netlify.app/",
     },
-    {
-      img: "/e-book.png",
-      title: "E-Book Website",
-      description:
-        `An e-book website is dedicated to providing users with access to a wide
-         range of digital books.`,
-      tech_stack: ["HTML", "CSS", "JavaScript"],
-      github_url: "https://github.com/muthukumar24/e-book-website",
-      demo_url: "https://e-book-website.netlify.app/",
-    },
-    {
-      img: "/JBL-Headphones.png",
-      title: "JBL Headphones",
-      description:
-        `A JBL headphones store aim to provide an immersive and user-friendly
-        experience for customers looking to purchase high-quality audio products.`,
-      tech_stack: ["HTML", "CSS", "JavaScript"],
-      github_url: "https://github.com/muthukumar24/JBL-Website",
-      demo_url: "https://jbl-website.netlify.app/",
-    },
+    // {
+    //   img: "/e-book.png",
+    //   title: "E-Book Website",
+    //   description:
+    //     `An e-book website is dedicated to providing users with access to a wide
+    //      range of digital books.`,
+    //   tech_stack: ["HTML", "CSS", "JavaScript"],
+    //   github_url: "https://github.com/muthukumar24/e-book-website",
+    //   demo_url: "https://e-book-website.netlify.app/",
+    // },
+    // {
+    //   img: "/JBL-Headphones.png",
+    //   title: "JBL Headphones",
+    //   description:
+    //     `A JBL headphones store aim to provide an immersive and user-friendly
+    //     experience for customers looking to purchase high-quality audio products.`,
+    //   tech_stack: ["HTML", "CSS", "JavaScript"],
+    //   github_url: "https://github.com/muthukumar24/JBL-Website",
+    //   demo_url: "https://jbl-website.netlify.app/",
+    // },
   ];
   
   // --------------------------------------- Skills
